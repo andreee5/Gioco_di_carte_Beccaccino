@@ -6,7 +6,6 @@
 ![Last Commit](https://img.shields.io/github/last-commit/andreee5/Gioco_di_carte_Beccacino)
 
 Simulazione testuale del gioco di carte tradizionale romagnolo **Beccacino**, sviluppata in linguaggio C++ con interfaccia testuale (CLI).
-![Introduzione](media/screenshot_Beccacino_1.JPG)
 
 ---
 
@@ -14,6 +13,7 @@ Simulazione testuale del gioco di carte tradizionale romagnolo **Beccacino**, sv
 
 Progetto scolastico sviluppato durante il quarto anno di liceo scientifico, nato con l'obiettivo di simulare digitalmente il tradizionale gioco di carte romagnolo **Beccacino** (o Maraffone).  
 Il gioco è stato realizzato in C++ con un'interfaccia testuale a colori tramite console.
+![Introduzione](media/screenshot_Beccacino_1.JPG)
 
 ### 🎮 Funzionalità principali del programma
 
