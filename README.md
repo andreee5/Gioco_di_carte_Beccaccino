@@ -1,6 +1,9 @@
 # 🃏 Progetto Gioco di Carte "Beccaccino" (C++ CLI)
 
 [![Download v1.0](https://img.shields.io/github/v/release/andreee5/Gioco_di_carte_Beccaccino?label=Download%20v1.0)](https://github.com/andreee5/Gioco_di_carte_Beccaccino/releases/latest)
+![License](https://img.shields.io/github/license/andreee5/Gioco_di_carte_Beccaccino)
+![Language](https://img.shields.io/github/languages/top/andreee5/Gioco_di_carte_Beccaccino)
+![Last Commit](https://img.shields.io/github/last-commit/andreee5/Gioco_di_carte_Beccaccino)
 
 Simulazione testuale del gioco di carte tradizionale romagnolo **Beccaccino**, sviluppata in linguaggio C++ con interfaccia testuale (CLI).
 
