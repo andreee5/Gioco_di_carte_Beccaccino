@@ -6,6 +6,7 @@
 ![Last Commit](https://img.shields.io/github/last-commit/andreee5/Gioco_di_carte_Beccaccino)
 
 Simulazione testuale del gioco di carte tradizionale romagnolo **Beccaccino**, sviluppata in linguaggio C++ con interfaccia testuale (CLI).
+![Introduzione](media/screenshot_Beccaccino_1.JPG)
 
 ---
 
@@ -47,42 +48,43 @@ Mostra le tre opzioni iniziali:
 2. Leggi il regolamento
 3. Esci
 
-![Menù principale](media/screenshot_menu_principale.png)
+![Menù principale](media/screenshot_Beccaccino_2.JPG)
 
 ---
 
 ### 📖 Menù regolamento
 Visualizza, punto per punto, le regole ufficiali del Beccaccino.
 
-![Menù regolamento](media/screenshot_menu_regolamento.png)
+![Menù regolamento](media/screenshot_Beccaccino_3.JPG)
 
 ---
 
 ### 🂠 Scelta della briscola
 Fase in cui viene chiesto al giocatore che possiede il 4 di denari di scegliere il seme di briscola per la partita.
 
-![Scelta briscola](media/screenshot_briscola.png)
+![Scelta briscola](media/screenshot_Beccaccino_4.JPG)
 
 ---
 
 ### 🟢 Tavolo di gioco iniziale
 Distribuzione delle carte, grafica testuale con sfondo verde e posizionamento delle carte.
 
-![Tavolo di gioco](media/screenshot_gioco.png)
+![Tavolo di gioco](media/screenshot_Beccaccino_5.JPG)
 
 ---
 
 ### 🔄 Turno del giocatore attivo
 Rotazione visiva delle carte e indicazione chiara del turno attuale.
 
-![Turno attivo](media/screenshot_turno.png)
+![Turno attivo](media/screenshot_Beccaccino_6.JPG)
+![Turno attivo](media/screenshot_Beccaccino_7.JPG)
 
 ---
 
 ### ❌ Uscita dal programma
 Messaggio di chiusura controllato quando si seleziona l’opzione "Esci".
 
-![Uscita](media/screenshot_uscita.png)
+![Uscita](media/screenshot_Beccaccino_8.JPG)
 
 ---
 
