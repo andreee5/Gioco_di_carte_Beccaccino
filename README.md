@@ -1,18 +1,18 @@
-# 🃏 Progetto Gioco di Carte "Beccaccino" (C++ CLI)
+# 🃏 Progetto Gioco di Carte "Beccacino" (C++ CLI)
 
-[![Download v1.0](https://img.shields.io/github/v/release/andreee5/Gioco_di_carte_Beccaccino?label=Download%20v1.0)](https://github.com/andreee5/Gioco_di_carte_Beccaccino/releases/latest)
-![License](https://img.shields.io/github/license/andreee5/Gioco_di_carte_Beccaccino)
-![Language](https://img.shields.io/github/languages/top/andreee5/Gioco_di_carte_Beccaccino)
-![Last Commit](https://img.shields.io/github/last-commit/andreee5/Gioco_di_carte_Beccaccino)
+[![Download v1.0](https://img.shields.io/github/v/release/andreee5/Gioco_di_carte_Beccacino?label=Download%20v1.0)](https://github.com/andreee5/Gioco_di_carte_Beccacino/releases/latest)
+![License](https://img.shields.io/github/license/andreee5/Gioco_di_carte_Beccacino)
+![Language](https://img.shields.io/github/languages/top/andreee5/Gioco_di_carte_Beccacino)
+![Last Commit](https://img.shields.io/github/last-commit/andreee5/Gioco_di_carte_Beccacino)
 
-Simulazione testuale del gioco di carte tradizionale romagnolo **Beccaccino**, sviluppata in linguaggio C++ con interfaccia testuale (CLI).
-![Introduzione](media/screenshot_Beccaccino_1.JPG)
+Simulazione testuale del gioco di carte tradizionale romagnolo **Beccacino**, sviluppata in linguaggio C++ con interfaccia testuale (CLI).
+![Introduzione](media/screenshot_Beccacino_1.JPG)
 
 ---
 
 ## 🧠 Descrizione del progetto
 
-Progetto scolastico sviluppato durante il quarto anno di liceo scientifico, nato con l'obiettivo di simulare digitalmente il tradizionale gioco di carte romagnolo **Beccaccino** (o Maraffone).  
+Progetto scolastico sviluppato durante il quarto anno di liceo scientifico, nato con l'obiettivo di simulare digitalmente il tradizionale gioco di carte romagnolo **Beccacino** (o Maraffone).  
 Il gioco è stato realizzato in C++ con un'interfaccia testuale a colori tramite console.
 
 ### 🎮 Funzionalità principali del programma
@@ -48,43 +48,43 @@ Mostra le tre opzioni iniziali:
 2. Leggi il regolamento
 3. Esci
 
-![Menù principale](media/screenshot_Beccaccino_2.JPG)
+![Menù principale](media/screenshot_Beccacino_2.JPG)
 
 ---
 
 ### 📖 Menù regolamento
-Visualizza, punto per punto, le regole ufficiali del Beccaccino.
+Visualizza, punto per punto, le regole ufficiali del Beccacino.
 
-![Menù regolamento](media/screenshot_Beccaccino_3.JPG)
+![Menù regolamento](media/screenshot_Beccacino_3.JPG)
 
 ---
 
 ### 🂠 Scelta della briscola
 Fase in cui viene chiesto al giocatore che possiede il 4 di denari di scegliere il seme di briscola per la partita.
 
-![Scelta briscola](media/screenshot_Beccaccino_4.JPG)
+![Scelta briscola](media/screenshot_Beccacino_4.JPG)
 
 ---
 
 ### 🟢 Tavolo di gioco iniziale
 Distribuzione delle carte, grafica testuale con sfondo verde e posizionamento delle carte.
 
-![Tavolo di gioco](media/screenshot_Beccaccino_5.JPG)
+![Tavolo di gioco](media/screenshot_Beccacino_5.JPG)
 
 ---
 
 ### 🔄 Turno del giocatore attivo
 Rotazione visiva delle carte e indicazione chiara del turno attuale.
 
-![Turno attivo](media/screenshot_Beccaccino_6.JPG)
-![Turno attivo](media/screenshot_Beccaccino_7.JPG)
+![Turno attivo](media/screenshot_Beccacino_6.JPG)
+![Turno attivo](media/screenshot_Beccacino_7.JPG)
 
 ---
 
 ### ❌ Uscita dal programma
 Messaggio di chiusura controllato quando si seleziona l’opzione "Esci".
 
-![Uscita](media/screenshot_Beccaccino_8.JPG)
+![Uscita](media/screenshot_Beccacino_8.JPG)
 
 ---
 
