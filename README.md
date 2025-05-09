@@ -77,13 +77,13 @@ Distribuzione delle carte, grafica testuale con sfondo verde e posizionamento de
 Rotazione visiva delle carte e indicazione chiara del turno attuale.
 
 ![Turno attivo](media/screenshot_Beccacino_6.JPG)
-![Turno attivo](media/screenshot_Beccacino_7.JPG)
 
 ---
 
 ### ❌ Uscita dal programma
 Messaggio di chiusura controllato quando si seleziona l’opzione "Esci".
 
+![Turno attivo](media/screenshot_Beccacino_7.JPG)
 ![Uscita](media/screenshot_Beccacino_8.JPG)
 
 ---
